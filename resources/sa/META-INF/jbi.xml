@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jbi xmlns="http://java.sun.com/xml/ns/jbi" version="1.0">
+	<service-assembly>
+		<identification>
+			<name>camel-tx-sa</name>
+		</identification>
+		<service-unit>
+			<identification>
+				<name>camel</name>
+			</identification>
+			<target>
+				<component-name>servicemix-camel</component-name>
+				<artifacts-zip>camel_su.jar</artifacts-zip>
+			</target>
+		</service-unit>
+	</service-assembly>
+</jbi>

@@ -1,0 +1,8 @@
+<project name="file" default="deploy-sa" basedir=".">
+	
+	<property name="sa.name" value="camel-tx-sa.jar" />
+
+	<import file="../Common/script/common.xml" />
+	
+	
+</project>

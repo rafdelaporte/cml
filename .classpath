@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/activemq-core-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/camel-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/camel-spring-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/spring-aop-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/spring-jdbc-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raph/Documents/Zenika/Formations/ESB_FR/workspace/Common/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/servicemix3.3.2/apache-servicemix-3.3.2/lib/activemq-camel-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/servicemix3.3.2/apache-servicemix-3.3.2/lib/camel-jms-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
